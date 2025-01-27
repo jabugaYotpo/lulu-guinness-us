@@ -27,6 +27,9 @@ body {
   height: auto;
   padding: 20px 0;
   display: flex;
+  max-width: 1316px;
+  margin: 0 auto;
+  background: #000;
 }
 
 .logo {
